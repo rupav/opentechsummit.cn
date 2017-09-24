@@ -1,5 +1,5 @@
 Site for OpenTechSummit China.
 
-http://opentechsummit.cn
+http://opentechsummit.cn or
 http://www.opentechsummit.cn/
 
